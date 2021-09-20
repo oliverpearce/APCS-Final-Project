@@ -1,0 +1,2 @@
+# APCS-Final-Project
+For my APCS Final Project in my Junior year, I created a connect 4 game with an AI opponent in java. I utilized multiple files to organize my code and make it as readable as possible. 
